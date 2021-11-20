@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>Leila Tabitha C. Juanson</h2>
+  <hr />
+  <br>
+  <p class="head">Personal Details</p>
+  
+  <ul>
+    <li>Contact number: 09751393636</li>
+    <li>Email: Lcjuanson@up.edu.ph</li>
+    <li>Facebook: Leila Juanson</li>
+   
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Interpersonal skills </li>
+    <li>time management </li>
+    <li>active listening</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+      <li>Shining Hope Academy (Elementary)</i>
+      <li>Culiat High School (High School)</li>
+      <li>with Hnors</li>
+    </a>
+    <li>Arellano University (S.H.S.)</li>
+    <li>with Honors</li>
+  </ul>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+
+</body>
+</html>
